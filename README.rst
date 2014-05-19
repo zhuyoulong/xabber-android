@@ -1,3 +1,5 @@
+实时聊天工具
+
 Xabber - XMPP client for Android
 ================================
 
